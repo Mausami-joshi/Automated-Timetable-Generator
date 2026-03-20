@@ -14,7 +14,7 @@ return [
     */
 
     'paths' => [
-        base_path('frontend/views'),
+        base_path('../frontend/views'),
     ],
 
     /*
